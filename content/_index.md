@@ -20,7 +20,7 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     [[page.expertise]]
     category = "Programming"
     skills = '''
-    Bash, Python, C#, Java, C++
+    Bash, Python, C#, Java, C++, Assembly
     '''
 
     [[page.expertise]]
@@ -37,17 +37,20 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     '''
 
     [[page.expertise]]
-    category = "AWS"
+    category = "Penetration Testing"
     skills = '''
-    S3, EC2, VPC, IAM, Route53, CloudFormation, Organizations, CloudWatch,
+    Nmap, Shodan, Responder, Burp Suite, SQLMap, Metasploit, Hashcat, Mimikatz, John the Ripper, Nikto, Ettercap, Beef, Nessus, OpenVAS
     CloudTrail
     '''
 
+
     [[page.expertise]]
-    category = "Design"
+    category = "Security Monitoring"
     skills = '''
-    HTML/CSS, Hugo, WordPress, Django, Kdenlive, GIMP
+    SIEMS(QRadar, LogRhythm, Splunk, McAfee Nitro), IDS/IPS(Fidelis, FireEye, Snort), EDR(McAfee EPO, SecurityCenter, RedSeal, Symantec Endpoint Protection, Panorama, CrowdStrike Falcon, BlueCat)
+    CloudTrail
     '''
+
 
     [[page.expertise]]
     remove_border = true
