@@ -7,20 +7,13 @@ last_name = "Lowe"
 job_title = "Senior CyberSecurity Analyst"
 location = "Austin, Texas"
 telephone = "+1-954-401-8345"
-email = ""
-web = "https://paige.bio"
-linkedin = "IAmPaigeAT"
-github = "paigeadelethompson"
-keybase = "IAmPaigeAT"
+email = "jl12e@my.fsu.edu"
+web = ""
+linkedin = "jeremiah-lowe"
+github = ""
+keybase = ""
 quote = '''
-At my core I am a systems administrator and software engineer. Starting in
-the year 2000, I grew up immersed in the Seattle tech and startup scene
-around other professional systems administrators, software engineers, and
-security researchers. I share the same undying passion for better software
-and technology with many of my professional colleagues and friends. I have
-sought to establish a strong, security-minded skill set throughout my career
-as well as a vital appreciation for productive technology that must
-interface with the non-technical world.
+With a seasoned background in cybersecurity, I've honed my expertise at the crossroads of application and network security. From safeguarding application architectures to ensuring robust network defenses, my journey has been fueled by a commitment to protect digital assets and infrastructures. In a rapidly evolving digital landscape, I understand the importance of proactive measures and am always at the forefront, navigating the complexities of cybersecurity challenges. My passion lies in crafting and implementing strategies that not only secure but also seamlessly integrate with the demands of today's tech-driven world.
 '''
 
 [[page]]
