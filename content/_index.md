@@ -20,14 +20,13 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     [[page.expertise]]
     category = "Programming"
     skills = '''
-    Bash, Python, PHP, C#, Javascript, C/C++, Golang, Rust
+    Bash, Python, C#, Java, C++,
     '''
 
     [[page.expertise]]
     category = "Operating Systems"
     skills = '''
-    Windows Server(2k, 3, 8, 16) Linux(SuSE/Kubic/Gentoo/Debian and advanced
-    Linux kernel concepts), FreeBSD, OpenBSD
+    Windows Server 2016, Windows 10, Windows 11, Linux(Red Hat Enterprise Linux(RHEL), CentOS, Ubuntu, Debian, Kali, Parrot)
     '''
 
     [[page.expertise]]
