@@ -33,9 +33,7 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     [[page.expertise]]
     category = "Networking"
     skills = '''
-    OpenVPN, L2/L3 tunneling, tcpdump, iptables/nftables(v0.9/1.0+), eBPF,
-    iproute2, NetFlow, scapy, hping3, tcpreplay/bittwiste, TCP/IP(v4/v6)
-    PROXY Protocol, HTTP Forward/Reverse Proxying
+    OpenVPN, L2/L3 tunneling, tcpdump, iptables, TCP/IP(v4/v6), UDP, PROXY Protocol, HTTP(S) Forward/Reverse Proxying, tcpdump, wireshark, tracert/traceroute, Nslookup, FTP/SFTP, DNS, ARP, DHCP, ICMP, SMTP, IMAP, POP3, SSH, TLS/SSL
     '''
 
     [[page.expertise]]
