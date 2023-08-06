@@ -20,7 +20,7 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     [[page.expertise]]
     category = "Programming"
     skills = '''
-    Bash, Python, C#, Java, C++,
+    Bash, Python, C#, Java, C++
     '''
 
     [[page.expertise]]
@@ -29,12 +29,6 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     Windows Server 2016, Windows 10, Windows 11, Linux(Red Hat Enterprise Linux(RHEL), CentOS, Ubuntu, Debian, Kali, Parrot)
     '''
 
-    [[page.expertise]]
-    category = "Virtualization"
-    skills = '''
-    KVM/libvirt, containerd/cri-o, OpenvSwitch, Vagrant, podman,
-    docker-compose, Terraform, Helm
-    '''
 
     [[page.expertise]]
     category = "Networking"
