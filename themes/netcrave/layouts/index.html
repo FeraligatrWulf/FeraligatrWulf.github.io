@@ -112,6 +112,38 @@
                     </div>
                 </div>
                 {{ end }}
+                {{ with .education }}
+                <div class="heading">
+                    <h1>
+                        Education
+                    </h1>
+                    <div class="job-outer">
+                        {{range . }}
+                        <div class="{{ if .remove_border }} job-row-last{{ else }}job-row{{ end }}">
+                            <div class="job-company">
+                                {{ .institution }}
+                            </div>
+                            <div class="location job-location">
+                                {{ .location }}
+                            </div>
+                            <div class="job-title">
+                                {{ .degree }}
+                            </div>
+                            <div class="job-date-outer">
+                                <time>{{ .start_date }}</time> - <time>{{ .end_date }}</time>
+                            </div>
+                            <div class="job-duties">
+                                <ul>
+                                    {{ range .details }}
+                                    <li> {{ . }} </li>
+                                    {{ end }}
+                                </ul>
+                            </div>
+                        </div>
+                        {{ end }}
+                    </div>
+                </div>
+                {{ end }}
                 {{ with .history }}
                 <div class=" {{ if $continued }} heading-continued {{ end }}">
                     <h1 class="heading">
