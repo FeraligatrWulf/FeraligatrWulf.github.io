@@ -56,9 +56,7 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     remove_border = true
     category = "Other"
     skills = '''
-    DNSSEC, BCP38, principle of least privilege, ACME, SNI,
-    transaction isolation, eventual consistency, OpenID, JWT, SAML, responsible
-    disclosure, good faith hacking
+    DNSSEC,principle of least privilege, JWT, SAML, responsible disclosure, good faith hacking
     '''
 
     [[page.history]]
