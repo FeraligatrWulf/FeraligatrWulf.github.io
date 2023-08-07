@@ -110,11 +110,10 @@ standards.
     ''',
     '''
     Maintain patch versions and Department of Defense (DoD) Security Technical Implementation Guides (STIG)
-levels on integrated systems and mobile devices
-    2012.
+levels on integrated systems and mobile devices.
     ''',
     '''
-    Supported as needed DoD Information Assurance Risk Management Framework (DIARMF)
+    Supported as needed DoD Information Assurance Risk Management Framework (DIARMF).
     ''']
 
 [[page]]
