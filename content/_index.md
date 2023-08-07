@@ -20,7 +20,7 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     [[page.expertise]]
     category = "Programming"
     skills = '''
-    Bash, Python, C#, Java, C++, Assembly. Android Mobile application Development
+    Bash, Python, C#, Java, C++, Assembly, Android Mobile application Development
     '''
 
     [[page.expertise]]
