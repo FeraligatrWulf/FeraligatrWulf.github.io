@@ -136,8 +136,9 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     start_date = "2017"
     end_date = "2019"
     duties = [
-
-]
+      '''
+      test
+      ''']
    
     [[page.certifications]]
     remove_border = true
