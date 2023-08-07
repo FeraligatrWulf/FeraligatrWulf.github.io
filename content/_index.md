@@ -140,76 +140,7 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     Assisted in the development of an SEO (KPI and insights dashboarding)
     analytics platform using PHP Symfony, Highcharts.js, MySQL/Propel.
     ''']
-    [[page.history]]
-    company_name = "The Branning Group"
-    location = "Telecommute"
-    job_title = "Software Engineer - Part-Time"
-    start_date = "January 2010"
-    end_date = "January 2011"
-    duties = [
-    '''
-    Developed on Wordpress, drupal, Joomla, and custom PHP/MySQL/Javascript
-    websites for Mr. Branning and his clients.
-    ''']
-
-    [[page.history]]
-    company_name = "Onvia Inc. "
-    location = "Seattle, Washington"
-    job_title = "Software Engineer"
-    start_date = "November 2008"
-    end_date = "March 2009"
-    duties = [
-    '''
-    Developed a data migration platform in C#, LINQ, MSSQL, LINQ-to-SQL, WCF,
-    and WPF for the purpose of moving data from an older SQL 2000 database to
-    a newer ORM-based database and production environment.
-    ''']
-
-    [[page.history]]
-    company_name = "Zion Prepatory Academy"
-    location = "Seattle, Washington"
-    job_title = "IT Manager - Part-time"
-    start_date = "December 2007"
-    end_date = "March 2010"
-    duties = [
-    '''
-    Managed Active Directory, Exchange Server 2007, Google Apps for Education /
-    non-profits, accounting software, networking, and security for roughly 100
-    users; the entire K-6 school including faculty and students.
-    ''',
-
-    '''
-    Contributed my own hardware with no strings attached for the purpose of
-    getting things done the right way in a low budget environment.
-    ''',
-
-    '''
-    Provided help desk and computer repair for all school computers (many
-    rebuilds) running Windows XP with Office, student software, and managed in
-    active directory with several different OUs and varying group policy
-    configurations.
-    ''']
-
-    [[page.history]]
-    remove_border = true
-    company_name = "SeattleSoft Inc."
-    location = "Seattle, Washington"
-    job_title = "Software Engineer / Systems Administrator"
-    start_date = "October 2005"
-    end_date = "March 2007"
-    duties = [
-    '''
-    Developed an inventory management front-end application for PalmOS 4.x in
-    Metrowerks CodeWarrior which ran on Symbol SPT 1846 PalmOS-based PDAs. The
-    application could scan labels for products anywhere with WiFi access around
-    a warehouse and allows for remote management of inventory.
-    ''',
-
-    '''
-    Developed in Java, PHP, HTML, CSS, and JavaScript for Mr Williams and his
-    clients.
-    ''']
-
+   
     [[page.certifications]]
     remove_border = true
     certification_name = "Hurricane Electric IPv6"
