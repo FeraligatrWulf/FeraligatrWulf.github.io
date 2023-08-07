@@ -137,7 +137,16 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     end_date = "2019"
     duties = [
       '''
-      test
+      Provided real-time guidance to clients on network configuration, security settings and policies, and attack
+mitigation procedures.
+      ''',
+      '''
+      Analyzed network flow data for anomalies and detect malicious network activity in 24x7 SOC environment.
+      ''',
+      '''
+
+      Assisted outsourced vendors that provide information security functions for compliance with contracted
+      service-level agreements.
       ''']
    
     [[page.certifications]]
