@@ -148,7 +148,7 @@ mitigation procedures.
     end_date = ""
     location = ""
     details = [
-
+    '''
     ''']
 
 
