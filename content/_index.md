@@ -142,28 +142,15 @@ mitigation procedures.
    
     [[page.certifications]]
     remove_border = true
-    certification_name = "Hurricane Electric IPv6"
-    title = "Sage Level"
-    start_date = "2022"
-    end_date = "2022"
-    location = "Virtual"
+    certification_name = "Offensive Security Certified Professional"
+    title = "OSCP"
+    start_date = "2019"
+    end_date = ""
+    location = ""
     details = [
-    '''
-    Comprehensive knowledge of CIDR Notation, Link-Local/ULA/GUA scopes, 6in4
-    tunnels, HTTP, SMTP and DNS.
+
     ''']
 
-    [[page.presentations]]
-    remove_border = true
-    presentation_name = "NFTables 1.x"
-    title = "Intro to NFTables 1.x and comparision to IPTables/BSD PF"
-    start_date = "2022"
-    end_date = "2022"
-    location = "Virtual"
-    details = [
-    '''
-    https://paige.bio/nftables_presentation
-    ''']
 
     [[page.education]]
     remove_border = true
