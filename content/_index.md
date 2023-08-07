@@ -60,11 +60,11 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     '''
 
     [[page.history]]
-    company_name = "Amazon Web Services Inc."
-    start_date = "May 2015"
-    end_date = "September 2016"
-    location = "Seattle, Washington"
-    job_title = "Systems Engineer Level 4 - S3 Border Reliability"
+    company_name = "The Home Depot"
+    start_date = "2020"
+    end_date = "current"
+    location = "Austin, Texas"
+    job_title = "Senior CyberSecurity Analyst"
     duties = [
     '''
     Planned, scheduled, and configured new hardware in Amazon’s datacenters
@@ -83,11 +83,11 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     ''']
 
     [[page.history]]
-    company_name = "ATG Stores Inc."
-    location = "Kirkland, Washington"
-    job_title = "Software Engineer - Internal Tools Team"
-    start_date = "January 2014"
-    end_date = "May 2014"
+    company_name = "Ernst & Young"
+    location = "Houston, Texas"
+    job_title = "Penetration Tester"
+    start_date = "2019"
+    end_date = "2020"
     duties = [
     '''
     Developed applications in .NET for the internal tools team; anything from
@@ -104,11 +104,11 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     ''']
 
     [[page.history]]
-    company_name = "ConnectXYZ LLC."
-    location = " Woodinville, Washington"
-    job_title = " Lead DevOps Engineer / Software Engineer"
-    start_date = "May 2012"
-    end_date = "June 2013"
+    company_name = "Logistic Services International, Inc."
+    location = "Jacksonville, Florida"
+    job_title = "CyberSecurity Engineer"
+    start_date = "2019"
+    end_date = "2020"
     duties = [
     '''
     Built server deployment and configuration automation with Opscode Chef on
@@ -130,11 +130,11 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
 
 [[page]]
     [[page.history]]
-    company_name = "Acronym Media Inc."
-    location = "Telecommute"
-    job_title = "Software Engineer"
-    start_date = "January 2011"
-    end_date = "June 2013"
+    company_name = "Deloitte"
+    location = "Camp Hill, Pennsylvania"
+    job_title = "SOC Analyst"
+    start_date = "2017"
+    end_date = "2019"
     duties = [
     '''
     Assisted in the development of an SEO (KPI and insights dashboarding)
