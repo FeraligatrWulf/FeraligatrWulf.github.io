@@ -144,7 +144,6 @@ mitigation procedures.
     remove_border = true
     certification_name = "Offensive Security Certified Professional"
     title = "OSCP"
-    start_date = "2019"
 
 
 
