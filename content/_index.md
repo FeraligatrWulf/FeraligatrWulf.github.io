@@ -145,11 +145,8 @@ mitigation procedures.
     certification_name = "Offensive Security Certified Professional"
     title = "OSCP"
     start_date = "2019"
-    end_date = ""
-    location = ""
-    details = [
-    '''
-    ''']
+
+
 
 
     [[page.education]]
@@ -159,9 +156,7 @@ mitigation procedures.
     location = "Tallahassee, Florida"
     start_date = "2012"
     end_date = "2017"
-    details = [
-    '''
-    ''']
+
 
     [[page.activities]]
     remove_border = true
