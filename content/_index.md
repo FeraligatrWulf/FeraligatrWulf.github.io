@@ -142,18 +142,28 @@ mitigation procedures.
    
     [[page.certifications]]
     remove_border = true
-    certification_name = "Offensive Security Certified Professional"
-    title = "OSCP"
+    certification_name = "Offensive Security Certified Professional (OSCP)"
+    title = "Offensive Security"
 
     [[page.certifications]]
     remove_border = true
     certification_name = "GIAC Certified Incident Handler"
-    title = "GCIH"
+    title = "GIAC in affiliation with the SANS Institute"
 
     [[page.certifications]]
     remove_border = true
     certification_name = "CompTIA Security+"
+    title = "Computing Technology Industry Association"
 
+    [[page.certifications]]
+    remove_border = true
+    certification_name = "GIAC Advisory Board Member"
+    title = "the SANS Intstitute"
+
+    [[page.certifications]]
+    remove_border = true
+    certification_name = "InfraGard"
+    title = "Jacksonville Chapter"
 
 
 
@@ -166,36 +176,5 @@ mitigation procedures.
     end_date = "2017"
 
 
-    [[page.activities]]
-    remove_border = true
-    name = "Netcrave Communications"
-    title = "Sole Proprietor"
-    location = "Virtual"
-    start_date = "2000"
-    end_date = "2019"
-    details = [
-    '''
-    Offered DNS, e-mail, website, shell acounts, and game server hosting as well
-    as static IPv4 and IPv6 tunnels.
-    ''',
-
-    '''
-    VPN, active network monitoring, and denial of service protection services.
-    ''',
-
-    '''
-    Developed several MVC web application development frameworks for Netcrave's
-    specific projects and those of it's clients.
-    ''',
-
-    '''
-    Performed packet capture analyses and filed a number abuse reports with ISPs
-    for confirmed denial of service attacks.
-    ''',
-
-    '''
-    Participated in independent security research to better understand the
-    nature of security problems on the modern internet.
-    ''']
-
+   
 +++
