@@ -241,38 +241,6 @@
                     </div>
                 </div>
                 {{ end }}
-                 {{ with .history }}
-                <div class=" {{ if $continued }} heading-continued {{ end }}">
-                    <h1 class="heading">
-                        {{ if $continued }}History (continued){{else}}History{{ end }}
-                    </h1>
-                    <div class="job-outer">
-                        {{range . }}
-                        <div class="{{ if .remove_border }} job-row-last{{ else }}job-row{{ end }}">
-                            <div class="job-company">
-                                {{ .company_name }}
-                            </div>
-                            <div class="location job-location">
-                                {{ .location }}
-                            </div>
-                            <div class="job-title">
-                                {{ .job_title }}
-                            </div>
-                            <div class="job-date-outer">
-                                <time>{{ .start_date }}</time> - <time>{{ .end_date }}</time>
-                            </div>
-                            <div class="job-duties">
-                                <ul>
-                                    {{ range .duties }}
-                                    <li> {{ . }} </li>
-                                    {{ end }}
-                                </ul>
-                            </div>
-                        </div>
-                        {{ end }}
-                    </div>
-                </div>
-                {{ end }}
                 {{ with .activities }}
                 <div class="heading">
                     <h1>
