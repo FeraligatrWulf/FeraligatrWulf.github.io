@@ -145,6 +145,15 @@ mitigation procedures.
     certification_name = "Offensive Security Certified Professional"
     title = "OSCP"
 
+    [[page.certifications]]
+    remove_border = true
+    certification_name = "GIAC Certified Incident Handler"
+    title = "GCIH"
+
+    [[page.certifications]]
+    remove_border = true
+    certification_name = "CompTIA Security+"
+
 
 
 
