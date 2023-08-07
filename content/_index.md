@@ -20,7 +20,7 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     [[page.expertise]]
     category = "Programming"
     skills = '''
-    Bash, Python, C#, Java, C++, Assembly
+    Bash, Python, C#, Java, C++, Assembly. Android Mobile application Development
     '''
 
     [[page.expertise]]
@@ -137,9 +137,16 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     end_date = "2019"
     duties = [
     '''
-    Assisted in the development of an SEO (KPI and insights dashboarding)
-    analytics platform using PHP Symfony, Highcharts.js, MySQL/Propel.
-    ''']
+    Analyzed network flow data for anomalies and detect malicious network activity in 24x7 SOC environment
+    ''',
+    '''
+   Provided real-time guidance to clients on network configuration, security settings and policies, and attack
+mitigation procedures
+    ''',
+    Assisted outsourced vendors that provide information security functions for compliance with contracted
+service-level agreements
+    ...
+]
    
     [[page.certifications]]
     remove_border = true
