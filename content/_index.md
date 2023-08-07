@@ -167,16 +167,13 @@ mitigation procedures.
 
     [[page.education]]
     remove_border = true
-    institution = "Bellevue Community College"
-    degree = "Associate Arts (A.A.) Computer Programming"
-    location = "Bellevue, WA"
-    start_date = "2005"
-    end_date = "2005"
+    institution = "Florida State University"
+    degree = "Bachelor of Science in Information Technlogy"
+    location = "Tallahassee, Florida"
+    start_date = "2012"
+    end_date = "2017"
     details = [
     '''
-    Left prior to completing my degree to focus on work at Seattle Software
-    Systems which included projects for Wintech Racing and the ConnectU
-    platform.
     ''']
 
     [[page.activities]]
