@@ -48,7 +48,6 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     category = "Security Monitoring"
     skills = '''
     SIEMS(QRadar, LogRhythm, Splunk, McAfee Nitro), IDS/IPS(Fidelis, FireEye, Snort), EDR(McAfee EPO, SecurityCenter, RedSeal, Symantec Endpoint Protection, Panorama, CrowdStrike Falcon, BlueCat)
-    CloudTrail
     '''
 
 
@@ -56,7 +55,7 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     remove_border = true
     category = "Other"
     skills = '''
-    DNSSEC,principle of least privilege, JWT, SAML, responsible disclosure, good faith hacking
+    DNSSEC, principle of least privilege, JWT, SAML, responsible disclosure, good faith hacking
     '''
 
     [[page.history]]
@@ -73,7 +72,7 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     Performed manual code reviews and leveraged static code analysis tools to identify and remediate security vulnerabilities.
     ''',
     '''
-    Assesed websites and API endpoints  for security misconfigurations and potential flaws.
+    Assessed websites and API endpoints  for security misconfigurations and potential flaws.
     ''']
 
     [[page.history]]
@@ -90,10 +89,10 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     Assessed Single Page Applications (SPAs) and API endpoints for security misconfigurations and potential flaws.
     ''',
     '''
-    Conducted internal network scans to identify active devices, open ports, and services running as well as evaluted network configurations and architecture for potenial weak spots.
+    Conducted internal network scans to identify active devices, open ports, and services running as well as evaluated network configurations and architecture for potential weak spots.
     ''',
     '''
-    Engaged in stealth recon in active networks to exfiltrate data and conducting password cracking activies to move laterally through a network to compromise the domain admin.
+    Engaged in stealth recon in active networks to exfiltrate data and conducting password cracking activities to move laterally through a network to compromise the domain admin.
     ''']
 
     [[page.history]]
@@ -170,7 +169,7 @@ mitigation procedures.
     [[page.education]]
     remove_border = true
     institution = "Florida State University"
-    degree = "Bachelor of Science in Information Technlogy"
+    degree = "Bachelor of Science in Information Technology"
     location = "Tallahassee, Florida"
     start_date = "2012"
     end_date = "2017"
