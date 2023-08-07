@@ -40,7 +40,6 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     category = "Penetration Testing"
     skills = '''
     Nmap, Shodan, Responder, Burp Suite, SQLMap, Metasploit, Hashcat, Mimikatz, John the Ripper, Nikto, Ettercap, Beef, Nessus, OpenVAS
-    CloudTrail
     '''
 
 
