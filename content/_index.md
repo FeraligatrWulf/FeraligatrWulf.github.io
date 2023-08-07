@@ -67,19 +67,13 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     job_title = "Senior CyberSecurity Analyst"
     duties = [
     '''
-    Planned, scheduled, and configured new hardware in Amazon’s datacenters
-    around the world to address network capacity needs and new capacity for
-    introduction of new availability regions.
+    Collaborated closely with development teams, ensuring timely remediation of identified security flaws and promoting secure coding practices.
     ''',
     '''
-    Assisted in the removal and much needed documentation of processes for
-    retiring deprecated infrastructure without affecting customers or
-    other services in the organization.
+    Performed manual code reviews and leveraged static code analysis tools to identify and remediate security vulnerabilities.
     ''',
     '''
-    Participated in a 24/7 on-call rotation to address and remediate
-    customer impacting events such as outages, software and hardware faults,
-    and denial of service attacks within service level agreements.
+    Assesed websites and API endpoints  for security misconfigurations and potential flaws.
     ''']
 
     [[page.history]]
@@ -90,17 +84,16 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     end_date = "2020"
     duties = [
     '''
-    Developed applications in .NET for the internal tools team; anything from
-    adding new models and/or business logic in Dynamics AX/GP to a simple FTP
-    client designed specifically for the marketing team.
+    Conducted thorough penetration tests on multiple web applications, identifying vulnerabilities and utilizing Open-Source Intelligence (OSINT) To map out attack surfaces and using manual and automated testing and scanning tools to discover application vulnerabilities.
     ''',
     '''
-    Collaborated with the website team on resolving their backlog items;
-    Javascript errors that occur in specific views and not others, CSS
-    bugs, and minimizing false positives in the logging framework.
+    Assessed Single Page Applications (SPAs) and API endpoints for security misconfigurations and potential flaws.
     ''',
     '''
-    Left the company to stay for a long term period in Greece with family.
+    Conducted internal network scans to identify active devices, open ports, and services running as well as evaluted network configurations and architecture for potenial weak spots.
+    ''',
+    '''
+    Engaged in stealth recon in active networks to exfiltrate data and conducting password cracking activies to move laterally through a network to compromise the domain admin.
     ''']
 
     [[page.history]]
@@ -111,21 +104,19 @@ With a seasoned background in cybersecurity, I've honed my expertise at the cros
     end_date = "2020"
     duties = [
     '''
-    Built server deployment and configuration automation with Opscode Chef on
-    Rackspace infrastructure; this entire stack included HAProxy, nginx,
-    PHP-fpm, Percona XtraDB cluster, Couchbase, OSSEC, munin, and nagios.
+    Performed setup, configuration, integration and testing of government training devices.
     ''',
     '''
-    Developed custom Iptables and ISC Bind 9 chef cookbooks. The iptables
-    cookbook used chef-client registration information together with role-based
-    attributes to determine specific egress and ingress rules on both the
-    internal and external network planes without a need for one-off firewall
-    rules to be specified.
+    Develop, review and evaluate System Security Documentations based on NIST SP 800-53 and other security
+standards.
     ''',
     '''
-    Assisted in planning a scheduled launch for a beta release with my team and
-    the service was made available to several clients for trial in December
+    Maintain patch versions and Department of Defense (DoD) Security Technical Implementation Guides (STIG)
+levels on integrated systems and mobile devices
     2012.
+    ''',
+    '''
+    Supported as needed DoD Information Assurance Risk Management Framework (DIARMF)
     ''']
 
 [[page]]
